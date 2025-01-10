@@ -11,13 +11,27 @@ This symposium will provide a general overview of DFT and showcase its applicabi
 
 The symposium will begin with a general introduction on DFT followed by a question period (25 minutes). Five short talks using DFT to model linguistic phenomena (20 minutes each) will follow, intermixed with two commentary sessions led by a discussant (20 minutes each). We will also include a short break during the symposium to allow for continued conversations between members of the audience and presenters (15 minutes). During the discussion and question sessions, presenters will receive commentary on their presentations from both the discussant as well as members of the audience.
 
-## People
+## Talks
 **Discussant**: Khalil Iskarous
 
-**Speakers**: 
-- Michael Stern (slides: `slides/Stern_DFT_intro.pdf`)
-- Manasvi Chaturvedi (slides: `slides/Chaturvedi_VowelErrors.pdf`, code: `MATLAB Scripts/Chaturvedi_vowel_errors_ae_a.m`)
-- Alessandra Pintado-Urbanc (slides: `slides/Pintado-Urbanc_Code-Switching.pdf`, code: `MATLAB Scripts/Pintado-Urbanc_Code-Switching_Script.m`)
-- Xiaomeng (Miranda) Zhu (slides: `slides/Zhu_PND.pdf`, code: `MATLAB Scripts/Zhu_PND_{Part1, Part2, Part3}.m`)
-- Ayla Karakaş (slides: `slides/Karakaş_sibilant_vowel_phonotactics.pdf`, code: `karakas_whalen_sim.m`)
-- Zhenghao (Herbert) Zhou (slides: `slides/LSA DFT Symposium - Error-driven Learning & Priming.pdf`)
+Michael Stern: *Dynamic Field Theory: An introduction*
+- slides: `slides/Stern_DFT_intro.pdf`
+
+Manasvi Chaturvedi: *Speech Errors in Vowels: trace effects*
+- slides: `slides/Chaturvedi_VowelErrors.pdf`
+- code: `MATLAB Scripts/Chaturvedi_vowel_errors_ae_a.m`
+
+Alessandra Pintado-Urbanc: *Asymmetric Interference Effects in Code-Switching*
+- slides: `slides/Pintado-Urbanc_Code-Switching.pdf`
+- code: `MATLAB Scripts/Pintado-Urbanc_Code-Switching_Script.m`
+
+Xiaomeng (Miranda) Zhu: *A Dynamic Neural Field Model for Production Mode and Phonological Neighborhood Density Effects*
+- slides: `slides/Zhu_PND.pdf`
+- code: `MATLAB Scripts/Zhu_PND_{Part1, Part2, Part3}.m`
+
+Ayla Karakaş: *Deriving sibilant-vowel phonotactics from a soft bias in perception*
+- slides: `slides/Karakaş_sibilant_vowel_phonotactics.pdf`
+- code: `MATLAB Scripts/karakas_whalen_sim.m`
+
+Zhenghao (Herbert) Zhou: *Error-driven Learning in DFT: A case study of structural priming*
+- slides: `slides/LSA DFT Symposium - Error-driven Learning & Priming.pdf`
